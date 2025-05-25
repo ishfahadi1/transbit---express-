@@ -1,30 +1,31 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Transbit Express Logo" width="300"/>
+</p>
+
 # Transbit Express
 
-**Transbit Express** is a decentralized ride-sharing platform powered by the Pi Network. It provides fast, affordable, and Pi-powered transport services including motorcycles, cars, and delivery vehicles—starting in Rwanda.
+**Transbit Express** is a decentralized smart transportation platform powered by **Pi Network**. It allows Pioneers to access fast, affordable, and Pi-powered transport services including motorcycles, cars, and delivery — starting in Rwanda.
 
 ## Vision
-To create a decentralized, community-led transportation network where **Pi Coin** is the primary currency, generating employment and boosting local economies.
+To build a decentralized, community-driven transportation system where Pi is the main currency, creating employment and stimulating local economies.
 
 ## Key Features
-- **Pi-Powered Payments:** All rides and deliveries are paid in Pi.
-- **Job Creation:** Empowering Pioneers to earn through driving or deliveries.
-- **Smart Booking System:** Seamless ride and delivery requests via mobile app.
-- **Local First:** Tailored to urban mobility needs in African cities.
+- Pay for rides and delivery services using Pi
+- Empower Pioneers with new job opportunities
+- Seamless booking via mobile app
+- Localized and built for African cities
 
 ## How It Works
-1. **Drivers** register and verify via the app.
-2. **Riders** request rides or deliveries using Pi.
-3. **The platform** connects them in real-time, enabling Pi transactions securely.
+Drivers register to offer services. Riders book and pay using Pi. The app facilitates a smooth, peer-to-peer interaction.
 
-## Current Status
-- MVP in development
-- UI/UX design and Pi transaction integration underway
-- Actively seeking collaboration and support from the Pi Core Team
+## Project Status
+MVP is in development. Seeking support, collaboration, and visibility from the Pi Core Team and global Pioneers.
 
-## Get Involved
-We welcome contributors, testers, and Pi enthusiasts to join us!
-
-## Tags
-** `pi-network`, `transport`, `ride-sharing`, `decentralized`, `rwanda`, `pi-economy`
 ## Contact
-For collaboration or inquiries: [ishfahadi@gmail.com]
+For contributions or collaboration:
+- Email: [YourEmail@example.com]
+- GitHub: [https://github.com/ishfahadi1/transbit---express-](https://github.com/ishfahadi1/transbit---express-)
+
+---
+
+> *Smart Transport. Smart Currency.*
