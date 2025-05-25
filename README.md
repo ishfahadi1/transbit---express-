@@ -24,7 +24,6 @@ MVP is in development. Seeking support, collaboration, and visibility from the P
 ## Contact
 For contributions or collaboration:
 - Email: [YourEmail@example.com]
-- GitHub: [https://github.com/ishfahadi1/transbit---express-](https://github.com/ishfahadi1/transbit---express-)
 
 ---
 
