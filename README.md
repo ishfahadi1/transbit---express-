@@ -23,7 +23,7 @@ MVP is in development. Seeking support, collaboration, and visibility from the P
 
 ## Contact
 For contributions or collaboration:
-- Email: [YourEmail@example.com]
+- Email:[ishfahadi@gmail.com]
 
 ---
 
