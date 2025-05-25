@@ -23,6 +23,8 @@ To create a decentralized, community-led transportation network where **Pi Coin*
 
 ## Get Involved
 We welcome contributors, testers, and Pi enthusiasts to join us!
-**Tags:** `pi-network`, `transport`, `ride-sharing`, `decentralized`, `rwanda`, `pi-economy`
+
+## Tags
+** `pi-network`, `transport`, `ride-sharing`, `decentralized`, `rwanda`, `pi-economy`
 ## Contact
 For collaboration or inquiries: [ishfahadi@gmail.com]
